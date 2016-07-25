@@ -1,0 +1,17 @@
+Shape Dimension Calculator
+
+Ellipse: X=100, Y=100, SemiMajorAxis=50, SemiMinorAxis=30
+Area: 4712.39, Perimeter: 251.33
+
+Rectangle: X=50, Y=50, Width=50, Height=30
+Area: 1500.0, Perimeter: 160.0
+
+Circle: X=300, Y=300, Radius=50
+Area: 7853.98, Perimeter: 314.16
+
+Total number of shapes: 3
+Number of Circles: 1
+Number of Ellipses: 1
+Number of Rectangles: 1
+Total Area sum: 14066.37
+Total Perimeter sum: 725.49

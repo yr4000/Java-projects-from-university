@@ -1,0 +1,9 @@
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.jdt.ui.prefs
+.settings/org.eclipse.jdt.core.prefs
+bin/
+<<<<<<< HEAD
+=======
+bin/BinomialHeap$HeapNode.class
+bin/BinomialHeap.class
+>>>>>>> fd8fcfabebd766f4e197529d57994864344a4160
